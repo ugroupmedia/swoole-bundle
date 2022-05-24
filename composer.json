@@ -18,9 +18,8 @@
         "homepage": "https://github.com/k911"
     }],
     "require": {
-        "php": "^7.4|^8.0",
-        "ext-json": "*",
-        "ext-swoole": "^4.5.10",
+        "php": "^8.1",
+        "ext-openswoole": "^4.11",
         "beberlei/assert": "^3.0",
         "symfony/config": "^4.4.0|^5.0",
         "symfony/console": "^4.4.0|^5.0",
@@ -124,15 +123,15 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-develop": "v0.8.x-dev"
+            "dev-openswoole": "v0.8.x-dev"
         }
     },
     "config": {
         "process-timeout": 1200,
         "sort-packages": true,
         "platform": {
-            "php": "7.4.13",
-            "ext-swoole": "4.5.10"
+            "php": "8.1",
+            "ext-openswoole": "4.11"
         }
     }
 }
