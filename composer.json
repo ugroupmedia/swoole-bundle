@@ -52,14 +52,12 @@
         "symfony/profiler-pack": "^1.0",
         "symfony/twig-bundle": "^4.4.0|^5.0",
         "symfony/var-dumper": "^4.4.0|^5.0",
-        "symfony/yaml": "^4.4.0|^5.0",
-        "upscale/swoole-blackfire": "^3.0"
+        "symfony/yaml": "^4.4.0|^5.0"
     },
     "suggest": {
         "ext-inotify": "To enable HMR",
         "doctrine/orm": "For using Entity Manager Handler",
         "symfony/messenger": "For using Symfony Messenger Swoole Task Transport.",
-        "upscale/swoole-blackfire": "To enable Blackfire profiling",
         "pixelfederation/doctrine-resettable-em-bundle": "To be able to recover Doctrine Entity Managers from errors",
         "symfony/error-handler": "To use Symfony Error Handler"
     },

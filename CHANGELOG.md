@@ -56,8 +56,6 @@
 
 
 ### Features
-
-* **blackfire:** Add bridge for upscale/swoole-blackfire ([#221](https://github.com/k911/swoole-bundle/issues/221)) ([960ddb8](https://github.com/k911/swoole-bundle/commit/960ddb84004bf3b146cdddd81cc60a48c60efa0b))
 * **exception-handler:** Add Symfony error/exception handler ([#228](https://github.com/k911/swoole-bundle/issues/228)) ([180d5e5](https://github.com/k911/swoole-bundle/commit/180d5e5a11b67097c66a0a2fecaf292bfa14cc4c))
 * **http-server:** configurable mime types for advanced static files server ([#240](https://github.com/k911/swoole-bundle/issues/240)) ([07896a4](https://github.com/k911/swoole-bundle/commit/07896a45dccf22320cb26e0988fa4988d18cd782))
 
